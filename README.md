@@ -19,8 +19,8 @@ I specialize in building robust data pipelines, performing data analysis, and de
 - **ERP**: Odoo
 
 ## 🎓 Certifications
-- [Microsoft Certified: Azure Data Fundamentals (DP-900)]([YOUR_DP-900_CERTIFICATION_LINK](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/C6DAF365F77F901F?sharingId=EAFEC4BE5F2BFA9C))
-- [Microsoft Certified: Data Analyst Associate (PL-300)]([YOUR_PL-300_CERTIFICATION_LINK](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/37086AA16DBAB3E1?sharingId=EAFEC4BE5F2BFA9C))
+- [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/C6DAF365F77F901F?sharingId=EAFEC4BE5F2BFA9C)
+- [Microsoft Certified: Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/37086AA16DBAB3E1?sharingId=EAFEC4BE5F2BFA9C)
 
 ## 📫 How to reach me
 - [LinkedIn](https://linkedin.com/in/faissalmouflla)

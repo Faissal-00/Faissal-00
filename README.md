@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Faissal Mouflla! 👋
 
-<!--
-**Faissal-00/Faissal-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Data Engineer with a passion for leveraging data to drive decision-making and innovation. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, SQL, JavaScript
+- **Frameworks**: Flask, Pandas, NumPy
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, Power BI, Talend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/faissalmouflla)
+- [Email](mailto:faissalmouflla@outlook.fr)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faissal-00&show_icons=true&theme=radical)

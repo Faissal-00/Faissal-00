@@ -1,11 +1,11 @@
 # Hello, I'm Faissal Mouflla! 👋
 
-Welcome to my GitHub profile! I'm a Data Engineer/Data Analyst with a passion for leveraging data to drive decision-making and innovation.
+Welcome to my GitHub profile! I'm a Data Engineer/Data Analyst with a passion for leveraging data to drive decision-making and innovation, particularly in the field of AgTech.
 
 ## 🔍 Overview
-I specialize in building robust data pipelines, performing data analysis, and developing data-driven solutions. My goal is to harness the power of data to support decision-making processes and drive business success. Currently, I am also learning about Computer Vision to expand my skill set.
+I specialize in building robust data pipelines, performing data analysis, and developing data-driven solutions. My goal is to harness the power of data to support decision-making processes and drive business success. Currently, I am also learning about Computer Vision and exploring how AI can be applied in agriculture to improve sustainability and efficiency.
 
-## 🚀 Data Engineer | 📊 Data Analyst | 🎓 2x Microsoft Certified (DP-900, PL-300)
+## 🚀 Data Engineer | 📊 Data Analyst | 🌱 AgTech Enthusiast | 🎓 3x Microsoft Certified (DP-900, PL-300, AI-900)
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, SQL
@@ -21,6 +21,7 @@ I specialize in building robust data pipelines, performing data analysis, and de
 ## 🎓 Certifications
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/C6DAF365F77F901F?sharingId=EAFEC4BE5F2BFA9C)
 - [Microsoft Certified: Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/37086AA16DBAB3E1?sharingId=EAFEC4BE5F2BFA9C)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/63B7354D721E1B3F?sharingId=EAFEC4BE5F2BFA9C)
 
 ## 📫 How to reach me
 - [LinkedIn](https://linkedin.com/in/faissalmouflla)

@@ -1,6 +1,4 @@
-<a href="https://faissalmouflla.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Applied+AI+Researcher;Building+High-Performance+AgTech;Optimizing+Edge+Deployment" alt="Typing SVG" />
-</a>
+# Hello, I'm Faissal Mouflla! 👋
 
 Welcome to my GitHub profile! I am an AI Engineer and researcher specializing in AgTech.
 
@@ -27,4 +25,3 @@ I am dedicated to bridging the gap between advanced artificial intelligence and 
 - [Email](mailto:contact@faissalmouflla.com)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Faissal-00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faissal-00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)

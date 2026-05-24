@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am an AI Engineer and researcher specializing in AgTech.
 
 ## 🔍 Overview
-As an AI Engineer and Researcher specializing in AgTech, I am dedicated to bridging the gap between advanced artificial intelligence and sustainable agriculture. My work focuses on developing high-performance AI systems and scalable data pipelines to solve complex agricultural challenges. By leveraging emerging technologies, I aim to build impactful solutions that optimize modern farming practices, promote environmental sustainability, and drive the future of the AgTech sector.
+I am dedicated to bridging the gap between advanced artificial intelligence and sustainable agriculture. My work focuses on developing high-performance AI systems and scalable data pipelines to solve complex agricultural challenges. By leveraging emerging technologies, I aim to build impactful solutions that optimize modern farming practices, promote environmental sustainability, and drive the future of the AgTech sector.
 
 ## AI Engineer | Applied AI Researcher | 3x Microsoft Certified (DP-900, PL-300, AI-900) | Focused on Data-Driven Agriculture
 
@@ -22,6 +22,6 @@ As an AI Engineer and Researcher specializing in AgTech, I am dedicated to bridg
 
 ## 📫 How to reach me
 - [LinkedIn](https://linkedin.com/in/faissalmouflla)
-- [Email](mailto:faissalmouflla@outlook.fr)
+- [Email](mailto:contact@faissalmouflla.com)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faissal-00&show_icons=true&theme=radical)

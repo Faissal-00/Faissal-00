@@ -24,4 +24,4 @@ I am dedicated to bridging the gap between advanced artificial intelligence and 
 - [LinkedIn](https://linkedin.com/in/faissalmouflla)
 - [Email](mailto:contact@faissalmouflla.com)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faissal-00&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Faissal-00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)

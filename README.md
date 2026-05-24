@@ -1,22 +1,19 @@
 # Hello, I'm Faissal Mouflla! 👋
 
-Welcome to my GitHub profile! I'm a Data Engineer/Data Analyst with a passion for leveraging data to drive decision-making and innovation, particularly in the field of AgTech.
+Welcome to my GitHub profile! I am an AI Engineer and researcher specializing in AgTech.
 
 ## 🔍 Overview
-I specialize in building robust data pipelines, performing data analysis, and developing data-driven solutions. My goal is to harness the power of data to support decision-making processes and drive business success. Currently, I am also learning about Computer Vision and exploring how AI can be applied in agriculture to improve sustainability and efficiency.
+As an AI Engineer and Researcher specializing in AgTech, I am dedicated to bridging the gap between advanced artificial intelligence and sustainable agriculture. My work focuses on developing high-performance AI systems and scalable data pipelines to solve complex agricultural challenges. By leveraging emerging technologies, I aim to build impactful solutions that optimize modern farming practices, promote environmental sustainability, and drive the future of the AgTech sector.
 
-## 🚀 Data Engineer | 📊 Data Analyst | 🌱 AgTech Enthusiast | 🎓 3x Microsoft Certified (DP-900, PL-300, AI-900)
+## AI Engineer | Applied AI Researcher | 3x Microsoft Certified (DP-900, PL-300, AI-900) | Focused on Data-Driven Agriculture
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, SQL
-- **Cloud**: Microsoft Azure
-- **Big Data**: Hadoop, Spark, Kafka, Airflow
-- **Databases**: MongoDB, Cassandra, Elasticsearch, SQL Server, HBase, Hive
-- **ETL**: Talend
-- **Data Visualization**: Kibana, Power BI
-- **Version Control**: Git
-- **Containerization**: Docker
-- **ERP**: Odoo
+* **Programming Languages:** Python, SQL
+* **AI & Data Science:** Machine Learning, Deep Learning, Computer Vision, NLP, LLMs
+* **Big Data Technologies:** Hadoop, Spark, Kafka, Airflow
+* **Cloud, Deployment & Automation:** Azure, GCP, Docker, FastAPI, Flask, Git, n8n
+* **Databases:** MongoDB, Cassandra, Elasticsearch, SQL Server, PostgreSQL, MySQL
+* **ETL & Visualization:** Talend, Power BI, Kibana
 
 ## 🎓 Certifications
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/fr-fr/FaissalMOUFLLA-7180/C6DAF365F77F901F?sharingId=EAFEC4BE5F2BFA9C)
